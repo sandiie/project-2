@@ -5,7 +5,7 @@
           "name": "Margherita Pizza",
           "description": "Classic pizza with tomato sauce, mozzarella, and basil",
           "price": 12.99,
-          "image": "https://www.example.com/images/margherita-pizza.jpg",
+          "image": "https://images.ctfassets.net/nw5k25xfqsik/64VwvKFqxMWQORE10Tn8pY/200c0538099dc4d1cf62fd07ce59c2af/20220211142754-margherita-9920.jpg",
           "category": "Pizza",
           "ingredients": ["Tomato Sauce", "Mozzarella Cheese", "Fresh Basil"],
           "availability": true
@@ -15,7 +15,7 @@
           "name": "Spaghetti Carbonara",
           "description": "Pasta with egg sauce, bacon, and Italian cheese",
           "price": 14.99,
-          "image": "https://www.example.com/images/spaghetti-carbonara.jpg",
+          "image": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
           "category": "Pasta",
           "ingredients": ["Spaghetti", "Eggs", "Bacon", "Cheese"],
           "availability": true
@@ -25,7 +25,7 @@
           "name": "Classic Cheeseburger",
           "description": "Beef patty with cheese, lettuce, tomato, and special sauce",
           "price": 9.99,
-          "image": "https://www.example.com/images/classic-cheeseburger.jpg",
+          "image": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/1:1/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
           "category": "Burger",
           "ingredients": ["Beef Patty", "Cheddar Cheese", "Lettuce", "Tomato", "Special Sauce"],
           "availability": false
@@ -35,7 +35,7 @@
           "name": "Veggie Burger",
           "description": "Grilled vegetable patty with avocado and sprouts",
           "price": 8.99,
-          "image": "https://www.example.com/images/veggie-burger.jpg",
+          "image": "https://www.foodandwine.com/thmb/pwFie7NRkq4SXMDJU6QKnUKlaoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg",
           "category": "Burger",
           "ingredients": ["Veggie Patty", "Avocado", "Sprouts"],
           "availability": true
@@ -45,7 +45,7 @@
           "name": "Beef Stew",
           "description": "Slow-cooked beef stew with vegetables",
           "price": 16.99,
-          "image": "https://www.example.com/images/beef-stew.jpg",
+          "image": "https://s23209.pcdn.co/wp-content/uploads/2020/03/Best-Ever-Beef-StewIMG_1367.jpg",
           "category": "Main Course",
           "ingredients": ["Beef", "Carrots", "Potatoes", "Onions"],
           "availability": true
@@ -55,7 +55,7 @@
           "name": "Pork Ribs",
           "description": "Tender pork ribs with BBQ sauce",
           "price": 17.99,
-          "image": "https://www.example.com/images/pork-ribs.jpg",
+          "image": "https://www.seriouseats.com/thmb/Omlu6IT-0rpmk8WE05iSfS8IqO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__08__20150730-anova-sous-vide-rib-guide-food-lab68-j-kenji-lopez-alt-3a8181cad15d4dbc93037b66c0f209da.jpg",
           "category": "Main Course",
           "ingredients": ["Pork Ribs", "BBQ Sauce"],
           "availability": true
@@ -65,7 +65,7 @@
           "name": "Roast Chicken",
           "description": "Juicy roasted chicken with herbs",
           "price": 12.99,
-          "image": "https://www.example.com/images/roast-chicken.jpg",
+          "image": "https://www.dinneratthezoo.com/wp-content/uploads/2018/10/roasted-chicken-4.jpg",
           "category": "Main Course",
           "ingredients": ["Chicken", "Herbs", "Seasonings"],
           "availability": true
@@ -75,7 +75,7 @@
           "name": "Lamb Curry",
           "description": "Delicious lamb curry with aromatic spices",
           "price": 18.99,
-          "image": "https://www.example.com/images/lamb-curry.jpg",
+          "image": "https://img.taste.com.au/JWILzKnH/taste/2016/11/top-20-warming-winter-curries-75607-2.jpeg",
           "category": "Main Course",
           "ingredients": ["Lamb", "Curry Spices", "Vegetables"],
           "availability": true
@@ -87,7 +87,7 @@
           "name": "Cola",
           "description": "Refreshing cola drink",
           "price": 2.99,
-          "image": "https://www.example.com/images/cola.jpg",
+          "image": "https://shop.phoenixbev.mu/wp-content/uploads/1040-1.jpg",
           "category": "Soft Drink",
           "availability": true
       },
@@ -96,7 +96,7 @@
           "name": "Orange Juice",
           "description": "Freshly squeezed orange juice",
           "price": 3.49,
-          "image": "https://www.example.com/images/orange-juice.jpg",
+          "image": "https://www.creedfoodservice.co.uk/media/catalog/product/cache/d781aa45b0623b3b1e7a18c482a05dd6/f/c/fcd3e1e08fe131416ea15e8d41ece0b1.jpg",
           "category": "Juice",
           "availability": true
       },
@@ -105,7 +105,7 @@
           "name": "Coffee",
           "description": "Strong brewed coffee",
           "price": 2.49,
-          "image": "https://www.example.com/images/coffee.jpg",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/025/282/026/small_2x/stock-of-mix-a-cup-coffee-latte-more-motive-top-view-foodgraphy-generative-ai-photo.jpg",
           "category": "Hot Drink",
           "availability": true
       },
@@ -114,7 +114,7 @@
           "name": "Water",
           "description": "Refreshing bottled water",
           "price": 1.49,
-          "image": "https://www.example.com/images/water.jpg",
+          "image": "https://images.thdstatic.com/productImages/2c12c804-7728-4112-9a79-d3dbb0c33548/svn/dasani-water-049000026566-64_600.jpg",
           "category": "Non-Alcoholic",
           "availability": true
       },
@@ -123,7 +123,7 @@
           "name": "Soda",
           "description": "Variety of carbonated soft drinks",
           "price": 1.99,
-          "image": "https://www.example.com/images/soda.jpg",
+          "image": "https://www.fodors.com/wp-content/uploads/2019/03/HERO_Worlds_Best_Soda_Bundaberg_shutterstock_679079920.jpg",
           "category": "Soft Drink",
           "availability": true
       },
@@ -132,7 +132,7 @@
           "name": "Milkshake",
           "description": "Creamy and sweet milkshake",
           "price": 3.99,
-          "image": "https://www.example.com/images/milkshake.jpg",
+          "image": "https://saltandbaker.com/wp-content/uploads/2020/12/oreo-milkshake-recipe.jpg",
           "category": "Dessert",
           "availability": true
       }
