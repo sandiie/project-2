@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ReactPaginate from 'react-paginate';
 import { createRoot } from 'react-dom/client';
+import App from '../App'; 
 
 // Example items, to simulate fetching from another resources.
 const items = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14];
@@ -57,9 +58,15 @@ function PaginatedItems({ itemsPerPage }) {
 }
 
 // Add a <div id="container"> to your HTML to see the component rendered.
-const container = document.getElementById('app');
-const root = createRoot(container); // createRoot(container!) if you use TypeScript
-root.render(<App tab="home" />); 
+const container = document.getElementById('App');
+const root = createRoot(document.getElementById("root")
+)// createRoot(container!) if you use TypeScript
+.render( 
+  <React.StrictMode>
+    <App/>
+  </React.StrictMode>,
+);
+
   <PaginatedItems itemsPerPage={4} />,
   document.getElementById('container')
 
